@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=WIFI_CTL Pin=U1-59
+Added Pin To Net: NetName=WIFI_CTL Pin=U1-33
+Added Room: Name=SchV1

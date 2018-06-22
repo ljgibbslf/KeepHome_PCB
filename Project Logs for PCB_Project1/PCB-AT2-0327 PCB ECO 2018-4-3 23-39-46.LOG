@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-12
+Added Pin To Net: NetName=NetC8_2 Pin=Y1-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=U1-13
+Added Pin To Net: NetName=NetC9_2 Pin=Y1-1
+Added Net: Name=NetC9_2
+Added Room: Name=SchV1

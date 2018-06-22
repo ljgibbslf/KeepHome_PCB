@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X5 New Footprint=7-Header_7mm
+Change Component Footprint: Designator=P6 Old Footprint=HDR1X5 New Footprint=7-Header_7mm
+Change Component Footprint: Designator=P7 Old Footprint=HDR1X5 New Footprint=7-Header_7mm
+Added Room: Name=SchV1

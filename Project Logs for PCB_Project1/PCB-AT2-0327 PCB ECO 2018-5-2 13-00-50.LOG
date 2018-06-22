@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3.3V Pin=P10-17
+Added Pin To Net: NetName=CAM_RESET Pin=P10-17
+Added Pin To Net: NetName=CAM_RESET Pin=U1-2
+Added Net: Name=CAM_RESET

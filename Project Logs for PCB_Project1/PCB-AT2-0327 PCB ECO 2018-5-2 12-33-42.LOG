@@ -1,0 +1,5 @@
+Change Component Library : Designator=Q3 Old Library=Fszhang.IntLib New Library=Miscellaneous Devices.IntLib
+Added Pin To Net: NetName=5V Pin=Q3-1
+Added Pin To Net: NetName=NetQ2_3 Pin=Q3-2
+Added Pin To Net: NetName=CH4M_VCC Pin=Q3-3
+Added Room: Name=SchV1

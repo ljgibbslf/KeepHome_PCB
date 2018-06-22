@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LCD_PWM_PA8 Pin=P2-38
+Removed Pin From Net: NetName=WIFI_CTL Pin=U1-33
+Removed Pin From Net: NetName=LCD_PWM_PA8 Pin=U1-77
+Change Component Designator: OldDesignator=POW NewDesignator=D3
+Added Pin To Net: NetName=WIFI_CTL Pin=U1-15
+Added Pin To Net: NetName=LCD_PWM_PA15 Pin=P2-38
+Added Pin To Net: NetName=LCD_PWM_PA15 Pin=U1-77
+Added Net: Name=LCD_PWM_PA15
+Added Room: Name=SchV1

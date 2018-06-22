@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=SchV1 Member=M2
+Added Component: Designator=*(AS01-ML01S)
+Added Member To Class: ClassName=SchV1 Member=Component * AS01-ML01S
+Added Room: Name=SchV1

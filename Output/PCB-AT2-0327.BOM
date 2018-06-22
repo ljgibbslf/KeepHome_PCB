@@ -1,0 +1,40 @@
+Bill of Material for 
+On 2018/4/28 at 10:52:55
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ AS01-ML01S          AS01-ML01S       1    M2                           贴片2.4G模块             
+ ASM1117             SOT-223          2    U2, U6                       3.3V稳压芯片             
+ Battery             CR1220           1    BT1                          备份电池                 
+ BEEP                Beep             1    J1                           蜂鸣器                  
+ Camera              HDR2X9           1    P10                          Header, 9-Pin, Dual row 
+ Cap Pol             CAP-3528         5    C10, C11, C20, C21, C27      极性电解电容               
+ Cap                 C-RAD-0603      21    C1, C2, C3, C4, C5, C6, C8   无极性电容                
+                                           C9, C12, C13, C14, C15, C16
+                                           C17, C18, C19, C22, C23, C24
+                                           C25, C26
+ CH4                 HDR4X1_A         1    P3                           接插件                  
+ DHT12               HDR4X1_A         1    P5                           接插件                  
+ Diode               DIODE-1206       2    D1, D6                       二极管                  
+ ESP-12S Module      ESP-12S Module    1    M1                           ESP-12S Module       
+ HCHO                7-HEADER_7MM     1    P6                           Header, 5-Pin        
+ Header 20X2         HDR2X20          1    P2                           Header, 20-Pin, Dual row 
+ Inductor            0805-1           1    L1                           电感                   
+ Inf                 HDR1X3           1    P11                          Header, 3-Pin        
+ LED0                LED_0805         3    D3, D4, D5                   发光二极管                
+ LM358               NSO8_N           1    U7                           双运放                  
+ MOSFET-N            SOT-23           1    Q3                           N-Channel MOSFET     
+ PM25                7-HEADER_7MM     1    P7                           Header, 5-Pin        
+ Res1                0603-1          22    R1, R2, R4, R5, R6, R7, R9   贴片电阻                 
+                                           R12, R13, R14, R15, R16, R17
+                                           R20, R21, R22, R23, R24, R25
+                                           R26, R27, R28
+ Rev                 HDR1X4           1    P12                          Header, 4-Pin        
+ SS8050              SOT-23           2    Q1, Q2                       NPN贴片三极管             
+ STM32F407V          LQFP-100_M       1    U1                           STM32单片机100引脚        
+ SW                  7-HEADER_7MM     1    P1                           Header, 5-Pin        
+ USART6_DEBUG        HDR4X1_A         1    P8                           接插件                  
+ USB_M               USB_MICRO        1    P9                           MicroUSB接口           
+ W25QXX              SOIC8_W          1    U5                           SPI FLASH            
+ XTAL                MC-306           1    Y2                           晶振                   
+ XTAL                X-SM49           1    Y1                           晶振                   

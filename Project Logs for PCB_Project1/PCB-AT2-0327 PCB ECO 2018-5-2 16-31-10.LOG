@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CH4M_VCC Pin=Q3-1
+Removed Pin From Net: NetName=NetQ2_3 Pin=Q3-3
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=MOSFET-P New DesignItemId=PMOS
+Change Component Comment : Designator=Q3 Old Comment=MOSFET-P New Comment=PMOS
+Change Component Description : Designator=Q3 Old Description=P-Channel MOSFET New Description=
+Change Component Library : Designator=Q3 Old Library=Miscellaneous Devices.IntLib New Library=Schlib.SchLib
+Added Pin To Net: NetName=NetQ2_3 Pin=Q3-1
+Added Pin To Net: NetName=CH4M_VCC Pin=Q3-3
+Added Room: Name=SchV1

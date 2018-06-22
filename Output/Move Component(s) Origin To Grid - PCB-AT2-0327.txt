@@ -1,0 +1,5 @@
+Move Component Origin to Grid
+Filename     : C:\Users\fan li\workspace\pcb_2in1\project_neon\PCB-AT2-0327.PcbDoc
+Date         : 2018/4/21
+Time         : 19:08:29
+Time Elapsed : 00:00:00

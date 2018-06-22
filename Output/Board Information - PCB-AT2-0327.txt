@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\fan li\workspace\pcb_2in1\project_neon\PCB-AT2-0327.PcbDoc
+Date         : 2018/5/1
+Time         : 21:12:39
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 229
+    Connections routed, 229
+    Connections remaining, 0
+count : 4

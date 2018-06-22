@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=CH4_VCC Pin=C28-2
+Change Component Comment : Designator=P8 Old Comment=DEBUG New Comment=USART6_DEBUG
+Change Component Designator: OldDesignator=LED1 NewDesignator=D5
+Change Component Designator: OldDesignator=LED2 NewDesignator=D4
+Change Component Designator: OldDesignator=POW NewDesignator=D3
+Change Component Designator: OldDesignator=Q3(MOS) NewDesignator=Q3
+Added Pin To Net: NetName=CH4_VCC Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Room: Name=SchV1

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V Pin=Q3-1
+Removed Pin From Net: NetName=CH4M_VCC Pin=Q3-3
+Change Component Footprint: Designator=Q3 Old Footprint=SOT-23R New Footprint=SOT-23
+Added Pin To Net: NetName=CH4M_VCC Pin=Q3-1
+Added Pin To Net: NetName=5V Pin=Q3-3
+Added Room: Name=SchV1
